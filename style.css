@@ -1,0 +1,35 @@
+div{
+    background-color: blue;
+    width: 350px;
+    height: 500px;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 40px;
+    color: white;
+}
+button{
+
+    position: relative;
+    top: 30px;
+    background-color: rgb(82, 237, 82);
+    border-color: rgb(82, 237, 82);
+    color: white; 
+    padding: 20px 5px;
+    font-size: larger;
+    margin: 0px 30px;
+    
+
+ 
+}
+p{
+    font-size: larger;
+    margin-top: 40px;
+    padding: 0px 30px;
+    text-align: center;
+}
+
+
+
+
+    
